@@ -1,0 +1,8 @@
+<view class="page">
+  <image class='background' src='../../images/background.png'></image>
+  <view class='page_hd'>
+    <button class='page_title' bindtap="check" hover-class='other-button-hover' >查看答案</button>
+  </view>
+  <view class='word'>{{text1}}</view>
+  <view class='word'>{{text2}}</view>
+</view>

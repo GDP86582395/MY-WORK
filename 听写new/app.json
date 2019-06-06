@@ -1,0 +1,28 @@
+{
+  "pages": [
+    "pages/homePage/homePage",
+    "pages/welcome/welcome",
+    "pages/choice/choice",
+    "pages/new/new",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/help/help",
+    "pages/read/read",
+    "pages/she/she",
+    "pages/goal/goal"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  },
+  "debug": true,
+  "navigateToMiniProgramAppIdList": [
+    "wxe5f52902cf4de896"
+  ]
+}

@@ -1,0 +1,13 @@
+<view class="page">
+  <image class='background' src='../../images/background2.png'></image>
+  <view class='page_hd'>
+    <text class='page_title'>使用说明</text>
+  </view>
+  <text class='word'>1.点击“录入单词”\n\n</text>
+  <text class='word'>2.依次输入你想听写的单词，每输入一个就点击“下一个”，输入完成后点击“完成”\n\n</text>
+  <text class='word'>3.在主页面中，点击“开始听写”\n\n</text>
+  <text class='word'>4.点击播放，之后便会开始听写,在输入框中输入你听到的单词,每写完一个就点下一个 （你可以在"设置"部分调节播放的间隔）\n\n</text>
+  <text class='word'>\n</text>
+  <text class='word'>\n</text>
+  <text class='word'>发现bug或有意见建议，请联系美女客服，QQ：945661711    （我们会积极听取你们的意见滴！）\n</text>
+</view>

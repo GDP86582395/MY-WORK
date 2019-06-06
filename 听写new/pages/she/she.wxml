@@ -1,0 +1,10 @@
+<view class="page">
+  <image class='background' src='../../images/background.png'></image>
+  <view class='page_hd'>
+    <text class='page_title'>设置</text>
+  </view>
+  <view class='page_hd'>
+    <view class ='page_titles'>播放间隔(毫秒)</view>
+    <slider min='0' max='10000' bindchange='bindInput' show-value />
+  </view>
+</view>

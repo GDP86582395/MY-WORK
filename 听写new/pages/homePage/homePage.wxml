@@ -1,0 +1,5 @@
+<view class='index-container'>
+  <image src='../../images/zhuye.png'></image>
+  <button class='go' bindtap="clickButton" hover-class='other-button-hover'>开始学习之旅</button>
+</view>
+

@@ -1,0 +1,13 @@
+<view class="page">
+<image class='background' src='../../images/background.png'></image>
+  <view class='page_hd'>
+    <text class='page_title'>Welcome</text>
+  </view>
+
+  <view class='index-container'>
+   <image src='../../images/welcome.png'></image>
+  </view>
+  <button class='zuo1'>今天你听写了吗?(◕‿◕✿)</button>
+  <button form-type='reset' class='you'>还没有(๑¯ิε ¯ิ๑)</button>
+  <button class='zuo2' bindtap="clickButton" hover-class='other-button-hover'>嗯哼๑乛◡乛๑   (那点我开始哟)</button>
+</view>

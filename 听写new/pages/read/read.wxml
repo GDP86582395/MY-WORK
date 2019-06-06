@@ -1,0 +1,16 @@
+<view class="page">
+  <image class='background' src='../../images/background.png'></image>
+  <view class='page_hd'>
+    <text class='page_title'>开始听写</text>
+  </view>
+  
+  <view class='iuput'>
+    <button class='anniu1' bindtap="listen" hover-class='other-button-hover'>播放</button>
+    <text class='word'>这里你可以一次性输入多个单词</text>
+    <input class='kuang' placeholder="请输入你听到的单词" hover-class='other-button-hover' bindinput='setDanci' value="{{danci}}"></input>
+    <!-- 
+    <button class='anniu2' bindtap="xiayige" hover-class='other-button-hover'>输入下一个</button>
+     -->
+    <button class='anniu3' bindtap="finish" hover-class='other-button-hover'>完成</button>
+  </view>
+</view>

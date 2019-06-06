@@ -1,0 +1,11 @@
+<view class="page">
+  <image class='background' src='../../images/background.png'></image>
+  <view class='page_hd'>
+    <text class='page_title'>菜单</text>
+  </view>
+  <button class='menu' bindtap="clickButton1" hover-class='other-button-hover'>录入单词</button>
+  <button class='menu' bindtap="clickButton2" hover-class='other-button-hover'>开始听写</button>
+  <button class='menu' bindtap="clickButton3" hover-class='other-button-hover'>帮助</button>
+  <button class='back' bindtap="clickButton4" hover-class='other-button-hover'>设置</button>
+  
+</view>
